@@ -21,7 +21,7 @@
 title: oorsmeer
 email: oorsmeermixtapes@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Oorsmeer in je oren elke 2e dinsdag van de maand.
+  Du cinéma sonore pour les yeux fermés.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://oorsmeer.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: Oorsmeer8
