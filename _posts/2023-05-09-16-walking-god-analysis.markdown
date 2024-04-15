@@ -1,57 +1,62 @@
 ---
 layout: post
-title:  "27 sleep voor corrélation"
-date:   2024-04-09 22:00:00 +0200
+title:  "16 walking god analysis"
+date:   2023-05-09 22:00:00 +0200
 categories: panik episode
 ---
 <iframe height="100" width="100%" scrolling="no" frameborder="yes" src="https://www.radiopanik.org/emissions/oorsmeer/27-sleep-voor-correlation/embed/17618/" ></iframe>
 
+00:30 Cliff Martinez — Thank God You're Awake (Remix)
 
-00:00 sv1 — 20231231_145 [system_exports_23, 2024, sv1]
+02:33 Acronym & Kali Malone — Live at Fylkingen
 
-02:45 Adriaan de Roover — Voor Thomas 2.1 [Voor anderen, 2020, Dauw]
+10:28 Anduin — Last Days of Montrose House
 
-07:24 Helen Island — No Witness [Last Liasse, 2024, Knekelhuis]
+20:50 Auvinen — Kevät Jäät Kilisevät
 
-10:35 sv1 — 20231126_141 [system_exports_23, 2024, sv1]
+25:24 Jóhann Jóhannsson — First Encounter
 
-11:39 Maria W Horn — Panoptikon [Panoptikon, 2024, XKatedral]
+29:58 Ludwig Göransson — SATOR
 
-17:21 Steve Roach & Erik Wøllo — [sans titre] (Stream of Thought #13) [Stream of Thought, 2009, Projekt Records]
+32:40 Vatican Shadow — Church of All Images (Regis Version)
 
-24:00 sv1 — 20231021_140 [system_exports_23, 2024, sv1]
+39:25 Dead Letters Spell Out Dead Words — Masks, Walls and Other Ways to Keep Things in, to Keep Things out
 
-24:50 Mary Lattimore — Horses, Glossy on the Hill [Goodbye, Hotel Arkada, 2023, Ghostly International]
+41:36 Rainforest Spiritual Enslavement — The Verdict Handed Down by a Kangaroo Court
 
-32:01 Florian TM Zeisig — 9P [Planet Inc, 2024, STROOM 〰]
+50:47 Trent Reznor — Consummation
 
-36:32 Emeka Ogboh — Wole [2022; 6°30’33​.​372”N 3°22’0​.​66”E, 2022, Danfotronics]
+54:30 Alocasia Garden — Disappearing World: IV
 
-39:50 Lamasz — Intro (Corrélation) [Arabesque, 2024, VAKNAR]
+59:57 Boards of Canada — Wildlife Analysis
 
-42:27 Mary Lattimore & Walt McClements —  Nest of Earrings [Rain on the Road, 2024, Thrill Jockey]
+61:12 Boards of Canada — Telephasic Workshop
 
-48:37 Abul Mogard & Rafael Anton Irisarri — Waking Up Dizzy on a Bastion [Impossibly Distant, Impossibly Close, 2024, Black Knoll Editions]
+67:08 Autechre — Foil
 
-67:12  Jessica Moss — For UNRWA  [For UNRWA, 2024, Jessica Moss]
+71:57 Rival Consoles — Pre
 
-80:02 Aindulmedir — The Hermit's Sleep [Star Lore, 2023, Hypnagoga Press]
+77:59 DeepChord — Sun
 
-85:45 KMRU — MR3 [Temporary Stored, 2022, KMRU]
+82:39 Chris Clark — Empty the Bones of You
 
-89:09 Dufwa — Atypi [Fältinspelningar från Terres de l'Ebre, 2017, XKatedral]
+85:26 Two Lone Swordsmen — Light the Last Flare
 
-100:27 Gil — Dustgreen [Infolding, 2019, Danse Noire]
+88:56 Boards of Canada — One Very Important Thought
 
-102:28 Carla Boregas — Sopro [Pena ao mar, 2023, iDEAL Recordings]
+90:00 Salamanda — Walking Flower
 
-103:52 Perila — How [There Are No Words to Describe It, 2022, Perila]
+97:01 Magne Furuholmen & Kjetil Bjerkestrand — Solve et coagula 3
 
-108:53 Lost Temple — Alulim [Life Sequence, 2016, Endless Plains Records]
+102:11 Tenniscoats — Before Noon
 
-111:20 ᐊᐳᑦ — ᒪᐅᔭ [ᐸᓇ, 2017, Heimat der Katastrophe]
+106:05 Supersilent — 4.7
 
-112:42 Dead Letters Spell Out Dead Words — Hope/less/loss [Old Ghosts, New Ghosts, All Ghosts, 2006, iDEAL Recordings]
+107:44 Emilie Levienaise-Farrouch — Persephone
 
-116:14 bod [包家巷] — The Recurrence of Infections (Flora Yin-Wong Remix) [The Recurrence of Infections (Fùfā gǎnrǎn), 2018, Danse Noire]
+110:31 Ben Vida + Marina Rosenfel — Leaving
 
+116:22 Tenniscoats — Donna Donna
+
+
+ 

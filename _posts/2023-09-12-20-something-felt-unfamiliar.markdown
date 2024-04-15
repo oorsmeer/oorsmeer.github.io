@@ -1,57 +1,61 @@
 ---
 layout: post
-title:  "27 sleep voor corrélation"
-date:   2024-04-09 22:00:00 +0200
+title:  "20 something felt unfamiliar"
+date:   2023-09-12 22:00:00 +0200
 categories: panik episode
 ---
-<iframe height="100" width="100%" scrolling="no" frameborder="yes" src="https://www.radiopanik.org/emissions/oorsmeer/27-sleep-voor-correlation/embed/17618/" ></iframe>
+<iframe height="100" width="100%" scrolling="no" frameborder="no" src="https://www.radiopanik.org/emissions/oorsmeer/20-something-felt-unfamiliar/embed/16419/" ></iframe>
 
 
-00:00 sv1 — 20231231_145 [system_exports_23, 2024, sv1]
 
-02:45 Adriaan de Roover — Voor Thomas 2.1 [Voor anderen, 2020, Dauw]
+00:00 Dylan Henner — Two Trains Came Through the Station at Once and It Felt Like a Hurricane [The Invention of the Human, 2020, AD 93]
 
-07:24 Helen Island — No Witness [Last Liasse, 2024, Knekelhuis]
+04:21 Köhn — Öhnöch [(Köhn)², 1999, (K-RAA-K)³]
 
-10:35 sv1 — 20231126_141 [system_exports_23, 2024, sv1]
+10:50 Loscil — Bleeding Ink [See Island, 2014, Kranky]
 
-11:39 Maria W Horn — Panoptikon [Panoptikon, 2024, XKatedral]
+17:23 The Blessed Kitty — Retroflexus [No Ice Can Be Found, 2020, Experiences, Ltd.]
 
-17:21 Steve Roach & Erik Wøllo — [sans titre] (Stream of Thought #13) [Stream of Thought, 2009, Projekt Records]
+20:55 Biosphere — Algae & Fungi (Candelaria Version) [Light, 2001, Touch]
 
-24:00 sv1 — 20231021_140 [system_exports_23, 2024, sv1]
+26:14 The Dead Texan — When I See Scissors, I Can't Help but Think of You [The Dead Texan, 2004, Kranky]
 
-24:50 Mary Lattimore — Horses, Glossy on the Hill [Goodbye, Hotel Arkada, 2023, Ghostly International]
+30:14 Paul DeMarinis — Phonetica francese [Music as a Second Language, 1991, Lovely Music, Ltd.]
 
-32:01 Florian TM Zeisig — 9P [Planet Inc, 2024, STROOM 〰]
+34:03 Devendra Banhart & Noah Georgeson — Asura Cave [Refuge, 2021, Dead Oceans]
 
-36:32 Emeka Ogboh — Wole [2022; 6°30’33​.​372”N 3°22’0​.​66”E, 2022, Danfotronics]
+39:53 Brian Eno — Unfamiliar Wind (Leeks Hills) [Ambient 4: On Land, 1982, Editions EG]
 
-39:50 Lamasz — Intro (Corrélation) [Arabesque, 2024, VAKNAR]
+45:05 Harold Budd & Brian Eno — The Plateaux of Mirror [Ambient 2: The Plateaux of Mirror, 1980, Editions EG]
 
-42:27 Mary Lattimore & Walt McClements —  Nest of Earrings [Rain on the Road, 2024, Thrill Jockey]
+49:05 Eno Moebius Roedelius — The Shade [After the Heat, 1978, Sky Records]
 
-48:37 Abul Mogard & Rafael Anton Irisarri — Waking Up Dizzy on a Bastion [Impossibly Distant, Impossibly Close, 2024, Black Knoll Editions]
+52:08 Brian Eno —1/2 [Ambient 1: Music for Aiports, 1979, Editions EG]
 
-67:12  Jessica Moss — For UNRWA  [For UNRWA, 2024, Jessica Moss]
+63:30 Brian Eno, Daniel Lanois & Roger Eno — An Ending (Ascent) [Apollo, Atmospheres & Soundtracks, 1983, Editions EG]
 
-80:02 Aindulmedir — The Hermit's Sleep [Star Lore, 2023, Hypnagoga Press]
+67:37 Cluster & Eno — Schöne Hände [Cluster & Eno, 1977, Sky Records]
 
-85:45 KMRU — MR3 [Temporary Stored, 2022, KMRU]
+70:39 Brian Eno —1/1 [Ambient 1: Music for Airports, 1979, Editions EG]
 
-89:09 Dufwa — Atypi [Fältinspelningar från Terres de l'Ebre, 2017, XKatedral]
+80:11 The Microphones — (Something) ["The Glow" Pt. 2, 2001, K Records]
 
-100:27 Gil — Dustgreen [Infolding, 2019, Danse Noire]
+81:06 Ben Salisbury & Geoff Barrow — The Beach [Annihilation, 2018, Invada Records]
 
-102:28 Carla Boregas — Sopro [Pena ao mar, 2023, iDEAL Recordings]
+85:13 Ekcer & Meulyzer — Carbon Cycles [Carbon, 2019, Subtext Recordings]
 
-103:52 Perila — How [There Are No Words to Describe It, 2022, Perila]
+95:29 Arovane — Roto [Polymer, 2023, Quiet Details]
 
-108:53 Lost Temple — Alulim [Life Sequence, 2016, Endless Plains Records]
+100:09 CV & JAB — Lands of Permanent Mist [Klima, 2023, Editions Basilic]
 
-111:20 ᐊᐳᑦ — ᒪᐅᔭ [ᐸᓇ, 2017, Heimat der Katastrophe]
+103:51 Dale Cooper Quartet & the Dictaphones — Elle corridor [Paroles de Navarre, 2007, Diesel Combustible Recordings]
 
-112:42 Dead Letters Spell Out Dead Words — Hope/less/loss [Old Ghosts, New Ghosts, All Ghosts, 2006, iDEAL Recordings]
+108:34 Kali Malone — Black Gate I [Black Gate, 2016, Total Black]
 
-116:14 bod [包家巷] — The Recurrence of Infections (Flora Yin-Wong Remix) [The Recurrence of Infections (Fùfā gǎnrǎn), 2018, Danse Noire]
+112:50 CV & JAB — Pottery Fragments [Klima, 2023, Editions Basilic]
 
+
+
+illustrations : https://www.saamielola.com/ <3
+
+https://www.instagram.com/oorsmeer.mixtapes/

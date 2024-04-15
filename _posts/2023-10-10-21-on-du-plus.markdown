@@ -1,57 +1,61 @@
 ---
 layout: post
-title:  "27 sleep voor corrélation"
-date:   2024-04-09 22:00:00 +0200
+title:  "21 on du plus"
+date:   2024-10-10 22:00:00 +0200
 categories: panik episode
 ---
-<iframe height="100" width="100%" scrolling="no" frameborder="yes" src="https://www.radiopanik.org/emissions/oorsmeer/27-sleep-voor-correlation/embed/17618/" ></iframe>
+<iframe height="100" width="100%" scrolling="no" frameborder="no" src="https://www.radiopanik.org/emissions/oorsmeer/21-on-du-plus/embed/16589/" ></iframe>
 
 
-00:00 sv1 — 20231231_145 [system_exports_23, 2024, sv1]
 
-02:45 Adriaan de Roover — Voor Thomas 2.1 [Voor anderen, 2020, Dauw]
+00:00 Ab Ovo — Les filles du vent [Empreintes, 2005, Ant-Zen]
 
-07:24 Helen Island — No Witness [Last Liasse, 2024, Knekelhuis]
+04:10 Billow Observatory — Slow Billows [Billow Observatory, 2012, Felte Sounds]
 
-10:35 sv1 — 20231126_141 [system_exports_23, 2024, sv1]
+10:08 Carmen Villain — Two Halves Touching [Sketch for Winter IX: Perlita, 2021, Geographic North]
 
-11:39 Maria W Horn — Panoptikon [Panoptikon, 2024, XKatedral]
+13:49 Beta Librae — Prismatic [Lillerne #100 Compilation, 2018, Lillerne Tape Club]
 
-17:21 Steve Roach & Erik Wøllo — [sans titre] (Stream of Thought #13) [Stream of Thought, 2009, Projekt Records]
+20:21 Yves Tumor — My Nose My Lips Your Head Shape [Experiencing the Deposit of Faith, 2017, Yves Tumor]
 
-24:00 sv1 — 20231021_140 [system_exports_23, 2024, sv1]
+23:52 Ludwig A.F.  Röhrscheid — Velocity [Velocity, 2018, Exo Recordings International]
 
-24:50 Mary Lattimore — Horses, Glossy on the Hill [Goodbye, Hotel Arkada, 2023, Ghostly International]
+30:32 Eschaton — Artist's Own Silk Etching [Changing Colours of Soun, 2010, Pincecone Moonshine]
 
-32:01 Florian TM Zeisig — 9P [Planet Inc, 2024, STROOM 〰]
+36:45 Florian T M Zeisig — You Look So Serious (IV) [You Look So Serious, 2020, Cassauna]
 
-36:32 Emeka Ogboh — Wole [2022; 6°30’33​.​372”N 3°22’0​.​66”E, 2022, Danfotronics]
+40:18 Rapoon — Blood on the Plains of Persia [Alien Glyph Morphology, 2005, Caciocavallo]
 
-39:50 Lamasz — Intro (Corrélation) [Arabesque, 2024, VAKNAR]
+43:27 Abul Mogard & KMRU — Drawing Water on Matching Teal Surfaces [Drawing Water, 2023, A Sunken Mall]
 
-42:27 Mary Lattimore & Walt McClements —  Nest of Earrings [Rain on the Road, 2024, Thrill Jockey]
+58:10 Christoph de Babalon — Believe [Vale, 2023, VAAGNER]
 
-48:37 Abul Mogard & Rafael Anton Irisarri — Waking Up Dizzy on a Bastion [Impossibly Distant, Impossibly Close, 2024, Black Knoll Editions]
+62:26 Grails — Anches En Maat [Anches En Maat, 2023, Temporary Residence Limited]
 
-67:12  Jessica Moss — For UNRWA  [For UNRWA, 2024, Jessica Moss]
+73:02 Mary Lattimore — Horses, Glossy on the Hill [Goodbye, Hotel Arkada , 2023, Ghostly International]
 
-80:02 Aindulmedir — The Hermit's Sleep [Star Lore, 2023, Hypnagoga Press]
+80:03 Ø + Noto — Beispiel Eins Plus [Wohltemperiert, 2001, Raster-Noton]
 
-85:45 KMRU — MR3 [Temporary Stored, 2022, KMRU]
+80:20 N |15| & Mirko Uhlig — G4 [Gerontology, 2011, Denovali Records]
 
-89:09 Dufwa — Atypi [Fältinspelningar från Terres de l'Ebre, 2017, XKatedral]
+81:03 DeepChord — Vantage Isle (cv313 Reduction II) [Vantage Isle Sessions, 2008, Echospace Detroit]
 
-100:27 Gil — Dustgreen [Infolding, 2019, Danse Noire]
+82:33 Biosphere — Colpa mia [Money Will Ruin Everything, 2003, Rune Grammofon]
 
-102:28 Carla Boregas — Sopro [Pena ao mar, 2023, iDEAL Recordings]
+83:48 Mica Levi — Delete Beach (English) [Delete Beach, 2017, DDS]
 
-103:52 Perila — How [There Are No Words to Describe It, 2022, Perila]
+87:57 Yuri Lugovskoy — Track Four (Strategy Remix) [Yuri Lugovskoy, 2012, Home Assembly Music]
 
-108:53 Lost Temple — Alulim [Life Sequence, 2016, Endless Plains Records]
+89:37 Phonophani — I.F.A. [Phonophani, 1998, Biophon Records]
 
-111:20 ᐊᐳᑦ — ᒪᐅᔭ [ᐸᓇ, 2017, Heimat der Katastrophe]
+91:08 Kate Carr — Owls Were Calling That Dark, Dark Night [Landing Lights, 2013, Flaming Pines]
 
-112:42 Dead Letters Spell Out Dead Words — Hope/less/loss [Old Ghosts, New Ghosts, All Ghosts, 2006, iDEAL Recordings]
+93:32 Pavel Milyakov — G-f1 [La Maison de la mort, 2019, Berceuse Heroique]
 
-116:14 bod [包家巷] — The Recurrence of Infections (Flora Yin-Wong Remix) [The Recurrence of Infections (Fùfā gǎnrǎn), 2018, Danse Noire]
+95:02 DJ Plead — RT6 [Relentless Trills, 2020, Boomkat Editions]
 
+96:15 Son Clair — The Sea (Part 2) [Watermark, 2010, Impulsive Habitat]
+
+103:29 Eartheater — If It in Yin [RIP Chrysalis, 2015, Hausu Mountain]
+
+110:17 Shinichi Atobe — Regret [From the Heart, It's a Start, a Work of Art, 2017, DDS]

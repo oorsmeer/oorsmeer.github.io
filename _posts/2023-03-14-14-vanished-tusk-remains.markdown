@@ -1,57 +1,73 @@
 ---
 layout: post
-title:  "27 sleep voor corrélation"
-date:   2024-04-09 22:00:00 +0200
+title:  "14 vanished tusk remains"
+date:   2023-03-14 22:00:00 +0200
 categories: panik episode
 ---
-<iframe height="100" width="100%" scrolling="no" frameborder="yes" src="https://www.radiopanik.org/emissions/oorsmeer/27-sleep-voor-correlation/embed/17618/" ></iframe>
+<iframe height="100" width="100%" scrolling="no" frameborder="no" src="https://www.radiopanik.org/emissions/oorsmeer/14-vanished-tusk-remains/embed/15498/" ></iframe>
 
+00:00 d'incise — The Field Remains While the Recorder Has Long Vanished
 
-00:00 sv1 — 20231231_145 [system_exports_23, 2024, sv1]
+00:13 Lamin Fofana — Rehearsal of Truth
 
-02:45 Adriaan de Roover — Voor Thomas 2.1 [Voor anderen, 2020, Dauw]
+04:14 Meitei —Nami
 
-07:24 Helen Island — No Witness [Last Liasse, 2024, Knekelhuis]
+07:19 The Humble Bee — Nothing to Ask For
 
-10:35 sv1 — 20231126_141 [system_exports_23, 2024, sv1]
+10:50 Yosuke Tokunaga — Cabinet
 
-11:39 Maria W Horn — Panoptikon [Panoptikon, 2024, XKatedral]
+13:41 Depressed Communist — Telling People to Read Theory, But They Don't
 
-17:21 Steve Roach & Erik Wøllo — [sans titre] (Stream of Thought #13) [Stream of Thought, 2009, Projekt Records]
+15:46 m do — Flat 
 
-24:00 sv1 — 20231021_140 [system_exports_23, 2024, sv1]
+25:57 Toni Dimitrov & Rhucle — June 24th, 2017
 
-24:50 Mary Lattimore — Horses, Glossy on the Hill [Goodbye, Hotel Arkada, 2023, Ghostly International]
+31:17 Celer — Elapsed Paradise
 
-32:01 Florian TM Zeisig — 9P [Planet Inc, 2024, STROOM 〰]
+36:27 Foresteppe — Mæta s01e04
 
-36:32 Emeka Ogboh — Wole [2022; 6°30’33​.​372”N 3°22’0​.​66”E, 2022, Danfotronics]
+39:44 J. Campbell — All That Remains
 
-39:50 Lamasz — Intro (Corrélation) [Arabesque, 2024, VAKNAR]
+43:25 Akkord — Gravure
 
-42:27 Mary Lattimore & Walt McClements —  Nest of Earrings [Rain on the Road, 2024, Thrill Jockey]
+48:31 Bitter Babe & Nick Léon — Ecotone
 
-48:37 Abul Mogard & Rafael Anton Irisarri — Waking Up Dizzy on a Bastion [Impossibly Distant, Impossibly Close, 2024, Black Knoll Editions]
+53:16 AGF & Sonic Wild Code — Botn
 
-67:12  Jessica Moss — For UNRWA  [For UNRWA, 2024, Jessica Moss]
+55:01 DSCRD — Graphene
 
-80:02 Aindulmedir — The Hermit's Sleep [Star Lore, 2023, Hypnagoga Press]
+61:28 T++ — 100 Bar
 
-85:45 KMRU — MR3 [Temporary Stored, 2022, KMRU]
+67:33 Drew McDowall — Unnatural Channel (Part 1)
 
-89:09 Dufwa — Atypi [Fältinspelningar från Terres de l'Ebre, 2017, XKatedral]
+71:52 Kevin Drumm — Dimming the Gas Lights
 
-100:27 Gil — Dustgreen [Infolding, 2019, Danse Noire]
+74:51 Raime — The Dimming of Road and Rights
 
-102:28 Carla Boregas — Sopro [Pena ao mar, 2023, iDEAL Recordings]
+79:40 Ross Gentry — Tusk
 
-103:52 Perila — How [There Are No Words to Describe It, 2022, Perila]
+82:25 Son Clair — Newspaper Vendor & Girl in Coverstation, Picadilly
 
-108:53 Lost Temple — Alulim [Life Sequence, 2016, Endless Plains Records]
+83:14 Nicolas Jaar — Être
 
-111:20 ᐊᐳᑦ — ᒪᐅᔭ [ᐸᓇ, 2017, Heimat der Katastrophe]
+87:59 Tegh & Adel Poursamadi — Ijād ایجاد
 
-112:42 Dead Letters Spell Out Dead Words — Hope/less/loss [Old Ghosts, New Ghosts, All Ghosts, 2006, iDEAL Recordings]
+93:13 Hiroki Sasajima — Into the Nothings
 
-116:14 bod [包家巷] — The Recurrence of Infections (Flora Yin-Wong Remix) [The Recurrence of Infections (Fùfā gǎnrǎn), 2018, Danse Noire]
+93:23 Alva Noto + Ryuichi Sakamoto — Berlin
 
+98:40 Christopher McFall — Lost at Sea and Seldom Found
+
+99:38 Dries Laheye — Staar
+
+104:50 Machinefabriek — Sol Sketches Pt. 32
+
+105:14 Suso Sáiz & Suzanne Kraft — Nunca
+
+110:40 Stereolab — Diagonals
+
+115:54 Linda Rum — Hafen
+
+116:51 Linda Rum — Farbe
+
+118:34 Linda Rum — Außen

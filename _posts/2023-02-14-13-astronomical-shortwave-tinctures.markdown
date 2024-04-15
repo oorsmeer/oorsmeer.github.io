@@ -1,57 +1,53 @@
 ---
 layout: post
-title:  "27 sleep voor corrélation"
-date:   2024-04-09 22:00:00 +0200
+title:  "13 astronomical shortwave tinctures"
+date:   2023-02-14 22:00:00 +0200
 categories: panik episode
 ---
-<iframe height="100" width="100%" scrolling="no" frameborder="yes" src="https://www.radiopanik.org/emissions/oorsmeer/27-sleep-voor-correlation/embed/17618/" ></iframe>
+<iframe height="100" width="100%" scrolling="no" frameborder="no" src="https://www.radiopanik.org/emissions/oorsmeer/13-astronomical-shortwave-tinctures/embed/15311/" ></iframe>
 
 
-00:00 sv1 — 20231231_145 [system_exports_23, 2024, sv1]
 
-02:45 Adriaan de Roover — Voor Thomas 2.1 [Voor anderen, 2020, Dauw]
+00:00 Atrium Carceri & Cities Last Broadcast — House of Tinctures
 
-07:24 Helen Island — No Witness [Last Liasse, 2024, Knekelhuis]
+04:02 The Durian Brothers — Planète sauvage
 
-10:35 sv1 — 20231126_141 [system_exports_23, 2024, sv1]
+09:20 Mount Shrine — Across Rooftops
 
-11:39 Maria W Horn — Panoptikon [Panoptikon, 2024, XKatedral]
+17:20 Eta Carinae — Cisx
 
-17:21 Steve Roach & Erik Wøllo — [sans titre] (Stream of Thought #13) [Stream of Thought, 2009, Projekt Records]
+22:50 Sarah Davachi —Evensong
 
-24:00 sv1 — 20231021_140 [system_exports_23, 2024, sv1]
+26:44 Mira Calix — Sparrow
 
-24:50 Mary Lattimore — Horses, Glossy on the Hill [Goodbye, Hotel Arkada, 2023, Ghostly International]
+32:39 A Silver Mt. Zion — Sit in the Middle of Three Galloping Dogs
 
-32:01 Florian TM Zeisig — 9P [Planet Inc, 2024, STROOM 〰]
+37:31 Loscil — Discent
 
-36:32 Emeka Ogboh — Wole [2022; 6°30’33​.​372”N 3°22’0​.​66”E, 2022, Danfotronics]
+43:20 Jóhann Jóhannsson & Yair Elazar Glotman — A Minor Astronomical Event
 
-39:50 Lamasz — Intro (Corrélation) [Arabesque, 2024, VAKNAR]
+47:00 Shrine — Somnia
 
-42:27 Mary Lattimore & Walt McClements —  Nest of Earrings [Rain on the Road, 2024, Thrill Jockey]
+55:07 Abdullah Miniawy x HVAD — Meanwhile the Survivors Are Shamefully Arriving (King of Rome)
 
-48:37 Abul Mogard & Rafael Anton Irisarri — Waking Up Dizzy on a Bastion [Impossibly Distant, Impossibly Close, 2024, Black Knoll Editions]
+61:50 Nordvargr — Children of the Masked Emperor
 
-67:12  Jessica Moss — For UNRWA  [For UNRWA, 2024, Jessica Moss]
+69:47 Caldon Glover — Summoning the Cartographer
 
-80:02 Aindulmedir — The Hermit's Sleep [Star Lore, 2023, Hypnagoga Press]
+78:31 Allseits — Yggdrasil
 
-85:45 KMRU — MR3 [Temporary Stored, 2022, KMRU]
+79:50 Shackleton — Shortwave
 
-89:09 Dufwa — Atypi [Fältinspelningar från Terres de l'Ebre, 2017, XKatedral]
+85:29 Machinefabriek — Jerusalem, 18 December 2007
 
-100:27 Gil — Dustgreen [Infolding, 2019, Danse Noire]
+87:56 TSVI — Root
 
-102:28 Carla Boregas — Sopro [Pena ao mar, 2023, iDEAL Recordings]
+90:25 Abadir — El 3ataba
 
-103:52 Perila — How [There Are No Words to Describe It, 2022, Perila]
+93:34 Wulffluw XCIV — Kuama
 
-108:53 Lost Temple — Alulim [Life Sequence, 2016, Endless Plains Records]
+96:30 Hyph11E — Erosion
 
-111:20 ᐊᐳᑦ — ᒪᐅᔭ [ᐸᓇ, 2017, Heimat der Katastrophe]
+101:36 Rainforest Spiritual Enslavement — Madagascar Colossal Shrimp (For Paul)
 
-112:42 Dead Letters Spell Out Dead Words — Hope/less/loss [Old Ghosts, New Ghosts, All Ghosts, 2006, iDEAL Recordings]
-
-116:14 bod [包家巷] — The Recurrence of Infections (Flora Yin-Wong Remix) [The Recurrence of Infections (Fùfā gǎnrǎn), 2018, Danse Noire]
-
+106:46 7E Phalanx — Pulse

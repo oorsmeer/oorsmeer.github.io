@@ -1,57 +1,56 @@
 ---
 layout: post
-title:  "27 sleep voor corrélation"
-date:   2024-04-09 22:00:00 +0200
+title:  "18 pure edges ruminate"
+date:   2023-07-11 22:00:00 +0200
 categories: panik episode
 ---
-<iframe height="100" width="100%" scrolling="no" frameborder="yes" src="https://www.radiopanik.org/emissions/oorsmeer/27-sleep-voor-correlation/embed/17618/" ></iframe>
+<iframe height="100" width="100%" scrolling="no" frameborder="no" src="https://www.radiopanik.org/emissions/oorsmeer/18-pure-edges-ruminate/embed/16192/" ></iframe>
 
 
-00:00 sv1 — 20231231_145 [system_exports_23, 2024, sv1]
+00:00 Gabriel Marin — Ruminate
 
-02:45 Adriaan de Roover — Voor Thomas 2.1 [Voor anderen, 2020, Dauw]
+06:10 DAAU & Rudy Trouvé — Gracefull
 
-07:24 Helen Island — No Witness [Last Liasse, 2024, Knekelhuis]
+10:46 Grails — After the Funeral
 
-10:35 sv1 — 20231126_141 [system_exports_23, 2024, sv1]
+20:12 Grails — Soft Temple
 
-11:39 Maria W Horn — Panoptikon [Panoptikon, 2024, XKatedral]
+26:34 Death Ambient — Drunken Forest
 
-17:21 Steve Roach & Erik Wøllo — [sans titre] (Stream of Thought #13) [Stream of Thought, 2009, Projekt Records]
+32:23 The Bug vs Earth — Boa
 
-24:00 sv1 — 20231021_140 [system_exports_23, 2024, sv1]
+38:40 G*Park — Alles ist im Fluss. Die pure Alchemie.
 
-24:50 Mary Lattimore — Horses, Glossy on the Hill [Goodbye, Hotel Arkada, 2023, Ghostly International]
+40:21 Eisuke Yanagisawa — Frogs
 
-32:01 Florian TM Zeisig — 9P [Planet Inc, 2024, STROOM 〰]
+40:58 Alice Kemp — Alles ist wie es ist
 
-36:32 Emeka Ogboh — Wole [2022; 6°30’33​.​372”N 3°22’0​.​66”E, 2022, Danfotronics]
+44:02 Martina Lussi — Classic Intense
 
-39:50 Lamasz — Intro (Corrélation) [Arabesque, 2024, VAKNAR]
+47:37 Katsura Mouri & Tim Olive — [sans titre] (Various Histories I)
 
-42:27 Mary Lattimore & Walt McClements —  Nest of Earrings [Rain on the Road, 2024, Thrill Jockey]
+51:14 David Maranha — [sans titre] (Osso Exótico -VI : Church Organ Works III)
 
-48:37 Abul Mogard & Rafael Anton Irisarri — Waking Up Dizzy on a Bastion [Impossibly Distant, Impossibly Close, 2024, Black Knoll Editions]
+54:42 Kapotte Muziek — Herzschlage 2 (1991, Harsh Dept.)
 
-67:12  Jessica Moss — For UNRWA  [For UNRWA, 2024, Jessica Moss]
+57:58 Altone — Shape of Water
 
-80:02 Aindulmedir — The Hermit's Sleep [Star Lore, 2023, Hypnagoga Press]
+67:25 Kapotte Muziek — Herzschlage 2 (1997, Absurd)
 
-85:45 KMRU — MR3 [Temporary Stored, 2022, KMRU]
+70:24 Moss Harvest — Harmonium
 
-89:09 Dufwa — Atypi [Fältinspelningar från Terres de l'Ebre, 2017, XKatedral]
+73:34 Kamran Sadeghi — Irrigation
 
-100:27 Gil — Dustgreen [Infolding, 2019, Danse Noire]
+79:26 Rachika Nayar — The Edges
 
-102:28 Carla Boregas — Sopro [Pena ao mar, 2023, iDEAL Recordings]
+84:32 Airhead — Paper Street
 
-103:52 Perila — How [There Are No Words to Describe It, 2022, Perila]
+88:17 Eli Keszler — Civil Sunset
 
-108:53 Lost Temple — Alulim [Life Sequence, 2016, Endless Plains Records]
+92:13 Astrid Sonne — Infirmity of Temper
 
-111:20 ᐊᐳᑦ — ᒪᐅᔭ [ᐸᓇ, 2017, Heimat der Katastrophe]
+96:01 Ryoichi Kurokawa —Sea in You
 
-112:42 Dead Letters Spell Out Dead Words — Hope/less/loss [Old Ghosts, New Ghosts, All Ghosts, 2006, iDEAL Recordings]
+106:21 Claire Rousay — Discrete (The Market)
 
-116:14 bod [包家巷] — The Recurrence of Infections (Flora Yin-Wong Remix) [The Recurrence of Infections (Fùfā gǎnrǎn), 2018, Danse Noire]
-
+112:30 Blanck Mass — Please

@@ -1,57 +1,60 @@
 ---
 layout: post
-title:  "27 sleep voor corrélation"
-date:   2024-04-09 22:00:00 +0200
+title:  "22 a communication component"
+date:   2023-11-14 22:00:00 +0200
 categories: panik episode
 ---
-<iframe height="100" width="100%" scrolling="no" frameborder="yes" src="https://www.radiopanik.org/emissions/oorsmeer/27-sleep-voor-correlation/embed/17618/" ></iframe>
+<iframe height="100" width="100%" scrolling="no" frameborder="no" src="https://www.radiopanik.org/emissions/oorsmeer/22-a-communicatin-component/embed/16786/" ></iframe>
 
 
-00:00 sv1 — 20231231_145 [system_exports_23, 2024, sv1]
+00:00 Para — Component [Motion Dub EP, 2009, Aquietbump]
 
-02:45 Adriaan de Roover — Voor Thomas 2.1 [Voor anderen, 2020, Dauw]
+05:03 Para — Slow Dub [Motion Dub EP, 2009, Aquietbump]
 
-07:24 Helen Island — No Witness [Last Liasse, 2024, Knekelhuis]
+10:35 Pole — Sachtesachte [Staedtizism, 2000, ~scape]
 
-10:35 sv1 — 20231126_141 [system_exports_23, 2024, sv1]
+15:05 Menion — Morbidità (Peak Remix) [Morbida oscurità, 2011, Mime_netlabel]
 
-11:39 Maria W Horn — Panoptikon [Panoptikon, 2024, XKatedral]
+20:30  Andrea Congia — Mari [Liberainosi de mali, 2011, Mime_netlabel]
 
-17:21 Steve Roach & Erik Wøllo — [sans titre] (Stream of Thought #13) [Stream of Thought, 2009, Projekt Records]
+24:05 Peak — Shyness (Hiding Version) [So Shy, 2010, Aquietbump]
 
-24:00 sv1 — 20231021_140 [system_exports_23, 2024, sv1]
+28:23 Para — Antwerp [Digital Crackle, 2010, Aquietbump]
 
-24:50 Mary Lattimore — Horses, Glossy on the Hill [Goodbye, Hotel Arkada, 2023, Ghostly International]
+32:51 Deadbeat — For Palestine [Wild Life Documentaries, 2002, ~scape]
 
-32:01 Florian TM Zeisig — 9P [Planet Inc, 2024, STROOM 〰]
+39:40 Pan•American — Quarry A [In Daylight Dub, 2023, Foam on a Wave]
 
-36:32 Emeka Ogboh — Wole [2022; 6°30’33​.​372”N 3°22’0​.​66”E, 2022, Danfotronics]
+44:35 Basic House — Crown Ever Remain [Crown Ever Remain, 2021, Sähkö Recordings]
 
-39:50 Lamasz — Intro (Corrélation) [Arabesque, 2024, VAKNAR]
+52:25 Adam Rajab — Stolen Heights [Palestine, 2021, Al Gharib]
 
-42:27 Mary Lattimore & Walt McClements —  Nest of Earrings [Rain on the Road, 2024, Thrill Jockey]
+57:49 Muslimgauze — Khan Younis [Hamas Arc, 1993, Staalplaat]
 
-48:37 Abul Mogard & Rafael Anton Irisarri — Waking Up Dizzy on a Bastion [Impossibly Distant, Impossibly Close, 2024, Black Knoll Editions]
+64:15 Damsel Elysium — Empathy Is a Muscle [After the Last Sky, 2023, Al Gharib]
 
-67:12  Jessica Moss — For UNRWA  [For UNRWA, 2024, Jessica Moss]
+72:41 The Higher Intelligence Agency & Biosphere— Countdown to Darkness [Polar Sequences, 1996, Beyond]
 
-80:02 Aindulmedir — The Hermit's Sleep [Star Lore, 2023, Hypnagoga Press]
+79:00 John Carpenter — Communication #1D35E1 [Assault on Precinct 13 / Dark Star, 2012, BSX Records]
 
-85:45 KMRU — MR3 [Temporary Stored, 2022, KMRU]
+80:58 Anja Lauvdal — Fantasie for Agathe Backer Grøndahl [From a Story Now Lost, 2022, Smalltown Supersound]
 
-89:09 Dufwa — Atypi [Fältinspelningar från Terres de l'Ebre, 2017, XKatedral]
+81:39 Deathprod — Dead People's Things [Morals and Dogma, 2004, Rune Grammofon]
 
-100:27 Gil — Dustgreen [Infolding, 2019, Danse Noire]
+89:26 Pjusk — Skodde [Sval, 2010, 12k]
 
-102:28 Carla Boregas — Sopro [Pena ao mar, 2023, iDEAL Recordings]
+94:48 Clemens Friedrich — Extrastar Transcendence [Worst Summer Hits Vol. 1, 2020, Worst Records]
 
-103:52 Perila — How [There Are No Words to Describe It, 2022, Perila]
+99:19 Barnett + Coloccia — Switch [Retrieval, 2013, Blackest Ever Black]
 
-108:53 Lost Temple — Alulim [Life Sequence, 2016, Endless Plains Records]
+104:56 November Növelet — We Fade Away [Sacred, 2008, Galakthorrö]
 
-111:20 ᐊᐳᑦ — ᒪᐅᔭ [ᐸᓇ, 2017, Heimat der Katastrophe]
+109:37 Virginia Aveline — Sick Hundred Sailors [Winter Olympics II, 2022, VAKNAR]
 
-112:42 Dead Letters Spell Out Dead Words — Hope/less/loss [Old Ghosts, New Ghosts, All Ghosts, 2006, iDEAL Recordings]
+111:15 Violet Poison — Like a Pandora's Box [Voices from the Hell, 2013, Hospital Productions]
 
-116:14 bod [包家巷] — The Recurrence of Infections (Flora Yin-Wong Remix) [The Recurrence of Infections (Fùfā gǎnrǎn), 2018, Danse Noire]
+115:20 Kontext — The Man Who Escaped [Dysphoria, 2013, Klammklang Tapes]
 
+
+
+57:55 Running Orders écrit par Lena Khalaf Tuffaha [Water & Salt, 2017, Red Hen Press]

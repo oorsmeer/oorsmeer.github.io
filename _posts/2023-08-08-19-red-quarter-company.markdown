@@ -1,57 +1,71 @@
 ---
 layout: post
-title:  "27 sleep voor corrélation"
-date:   2024-04-09 22:00:00 +0200
+title:  "19 red quarter company"
+date:   2023-08-08 22:00:00 +0200
 categories: panik episode
 ---
-<iframe height="100" width="100%" scrolling="no" frameborder="yes" src="https://www.radiopanik.org/emissions/oorsmeer/27-sleep-voor-correlation/embed/17618/" ></iframe>
+<iframe height="100" width="100%" scrolling="no" frameborder="no" src="https://www.radiopanik.org/emissions/oorsmeer/19-red-quarter-company/embed/16283/" ></iframe>
 
 
-00:00 sv1 — 20231231_145 [system_exports_23, 2024, sv1]
 
-02:45 Adriaan de Roover — Voor Thomas 2.1 [Voor anderen, 2020, Dauw]
+00:00 Celer — 10_6 (I Ate Socialst Meals in the Company Mess Hall) [Sunlir / Scols, 2006, Celer]
 
-07:24 Helen Island — No Witness [Last Liasse, 2024, Knekelhuis]
+03:57 Debit — My House [System, 2019, NAAFI]
 
-10:35 sv1 — 20231126_141 [system_exports_23, 2024, sv1]
+05:13 Lost Temple — Life Sequence [Life Sequence EP, 2016, Endless Plains Records]
 
-11:39 Maria W Horn — Panoptikon [Panoptikon, 2024, XKatedral]
+08:08 Ehua — Meteora [Nervous Horizon, Vol. 3, 2019, Nervous Horizon]
 
-17:21 Steve Roach & Erik Wøllo — [sans titre] (Stream of Thought #13) [Stream of Thought, 2009, Projekt Records]
+09:00 Eomac — We Are All Going to Die [Monad XVII], 2014, Stroboscopic Artefacts]
 
-24:00 sv1 — 20231021_140 [system_exports_23, 2024, sv1]
+11:25 Karras — Dawn Chords [Fernen, 2006, EKO Netlabel]
 
-24:50 Mary Lattimore — Horses, Glossy on the Hill [Goodbye, Hotel Arkada, 2023, Ghostly International]
+15:01 Distant Animals — Colloquial Treats [Circa Circa, 2019, Nomad Exquisite]
 
-32:01 Florian TM Zeisig — 9P [Planet Inc, 2024, STROOM 〰]
+16:12 Ka Baird & Zach Rowden — Storms Stay Fine [Respires, 2019, RVNG Intl.]
 
-36:32 Emeka Ogboh — Wole [2022; 6°30’33​.​372”N 3°22’0​.​66”E, 2022, Danfotronics]
+17:35 Subskan — Aezphia Vortex  [Vortex, 2008, Entity]
 
-39:50 Lamasz — Intro (Corrélation) [Arabesque, 2024, VAKNAR]
+21:17 Eta Carinae — Parox (Ether Remix by SEED Project) [::3::, 2006, etaLABEL]
 
-42:27 Mary Lattimore & Walt McClements —  Nest of Earrings [Rain on the Road, 2024, Thrill Jockey]
+21:34 Resina — Surface [Traces, 2018, 130701 Records]
 
-48:37 Abul Mogard & Rafael Anton Irisarri — Waking Up Dizzy on a Bastion [Impossibly Distant, Impossibly Close, 2024, Black Knoll Editions]
+25:50 Burial — Night Bus [Burial, 2006, Hyperdub]
 
-67:12  Jessica Moss — For UNRWA  [For UNRWA, 2024, Jessica Moss]
+26:46 Nene H — How We Say Goodbye [Ali, 2021, Incienso]
 
-80:02 Aindulmedir — The Hermit's Sleep [Star Lore, 2023, Hypnagoga Press]
+31:50 Machinefabriek — Smak [Zinder, 2019, Nomad Exquisite]
 
-85:45 KMRU — MR3 [Temporary Stored, 2022, KMRU]
+34:30 Praveen — Please Begin [Backed by Spirits, 2008, Neo Ouija]
 
-89:09 Dufwa — Atypi [Fältinspelningar från Terres de l'Ebre, 2017, XKatedral]
+39:30 Deadbeat — First Quarter [Drawn and Quartered, 2011, BLKRTZ]
 
-100:27 Gil — Dustgreen [Infolding, 2019, Danse Noire]
+50:52 Ruhail Qaisar — Sachu melung [Fatima, 2023, Danse Noire]
 
-102:28 Carla Boregas — Sopro [Pena ao mar, 2023, iDEAL Recordings]
+54:19 Hausswolff — Find the Way [Nordlichtt, 2017, Curious Music]
 
-103:52 Perila — How [There Are No Words to Describe It, 2022, Perila]
+59:27 Kreng — Petit grimoire [Grimoire, 2011, Miasmah]
 
-108:53 Lost Temple — Alulim [Life Sequence, 2016, Endless Plains Records]
+63:35 Alphaxone — Near to Nothing [Tomb of Empires, 2014, Cryo Chamber]
 
-111:20 ᐊᐳᑦ — ᒪᐅᔭ [ᐸᓇ, 2017, Heimat der Katastrophe]
+70:48 The Bug — Annihilated (Force of Gravity) [Machine 1, 2023, Pressure]
 
-112:42 Dead Letters Spell Out Dead Words — Hope/less/loss [Old Ghosts, New Ghosts, All Ghosts, 2006, iDEAL Recordings]
+74:42 Nurse with Wound — [sans titre] (Six Songs for Lilitu, 1) [Sololiquy for Lilith, 1988, Idle Hole]
 
-116:14 bod [包家巷] — The Recurrence of Infections (Flora Yin-Wong Remix) [The Recurrence of Infections (Fùfā gǎnrǎn), 2018, Danse Noire]
+80:40 Koenraad Ecker — Black Blocks and Red Zones [A Biology of Shadow, 2018, In Aulis]
 
+84:50 Penelope Trappes — Lucky Eleven (Mother's Blood Version) [Penelope Three, 2021, Houndstooth]
+
+89:00 Ben Frost — Tick Tack, Tick Tack [Dark: Cycle 1, 2019, Invada Records]
+
+91:43 Sutekh Hexen — Xirang [Sutekh Hexen, 2019, Sentient Ruin Laboratories]
+
+95:02 Body Sculptures — Feet into Soil [A Body Turns to Eden, 2016, Posh Isolation]
+
+97:11 Beyond Sensory Experience — Eyes of the Unknown [Cyclic Law's 10 Year Anniversary Label Sampler, 2012, Cyclic Law]
+
+104:39 JH1.FS3 — Pipe Talk [Trials and Tribulations, 2019, Dais Records]
+
+107:40 Vile Temper — Utol [Ack, 2023, Several Minor Promises]
+
+112:05 Abul Mogard — Post-Crisis Remembrance [Drifted Heaven, 2013, VCO Records]
