@@ -1,12 +1,10 @@
 ---
 layout: post
 title:  "05 black leyak loft"
-date:   2022-02-08 22:00:00 +0200
+date:   2022-06-14 22:00:00 +0200
 categories: panik episode
 ---
 <iframe height="100" width="100%" scrolling="no" frameborder="no" src="https://www.radiopanik.org/emissions/oorsmeer/05-black-leyak-loft/embed/14063/" ></iframe>
-
-
 
 
 00:00 Exhaust — The Black Horns of H2T
